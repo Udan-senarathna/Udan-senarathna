@@ -19,7 +19,7 @@
 
 ## 🧠 My Focus Areas
 - Software Development
-- App Development
+- Mobile App Development
 - Web Development
 - Game Development
 
